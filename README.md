@@ -5,3 +5,5 @@ I'm excited to present my very first Android project, the JOBSPARK app, which wi
       🟣 Simple, user-friendly interface. 
       🟣 Developed using Android Studio. 
       🟣 JOBSPARK is a mobile app designed to help job
+      
+#FirstProject hashtag#AndroidDevelopment hashtag#Kotlin hashtag#LearningJourney
